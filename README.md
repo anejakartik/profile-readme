@@ -1,38 +1,46 @@
-# Kartik Aneja — AI-first Backend & Data Engineer
+# Kartik Aneja
 
-**Location:** Boston, MA · **Open to:** Backend / MLOps / AI Infrastructure roles
+Boston, MA · backend systems · AI infrastructure · MLOps
 
----
+I build production software for AI teams: the APIs, pipelines, and deployment paths that turn prototypes into systems people can actually run.
 
-## 🔭 Professional headline
-AI-native Software Engineer — production backend, MLOps, and RAG systems.
+## What I focus on
 
-## About
-I build and operate production ML systems: data pipelines, model infra, and agentic backends that accelerate time-to-production. I prefer pragmatic, observable, and reusable infrastructure that scales in cost and reliability.
+- Production backend services for AI products
+- RAG and agent workflows with measurable retrieval quality
+- Streaming ETL and data infrastructure for analytics and ML
+- MLOps tooling that makes training, deployment, and rollback repeatable
 
-## Tech stack
-Python · Go · PySpark · FastAPI · Kafka · Snowflake · dbt · AWS · Azure · Docker · Kubernetes · Terraform · MLflow · OpenAI · Vector DBs
+## Current stack
 
-## What I’m building
-- Production RAG microservices and agent orchestration
-- Scalable streaming ETL for analytics and ML
-- MLOps tooling: reproducible training, model registry, infra templates
+Python · Go · FastAPI · PySpark · Kafka · dbt · Snowflake · AWS · Azure · Kubernetes · Terraform · Docker · MLflow · OpenAI · vector databases
 
-## Featured projects
-- **rag-serve** — Production-ready RAG microservice (FastAPI, LangChain, vector DB). Link: ../rag-serve
-- **streamstage** — Streaming ETL primitives (Kafka, PySpark) for high-throughput pipelines. Link: ../streamstage
-- **modelops-helm** — Helm charts & infra templates for reproducible ML lifecycle on Kubernetes. Link: ../modelops-helm
+## Selected work
 
-## Cloud & infra
-AWS (Lambda, S3, EC2), Azure (Functions, Synapse), Kubernetes, Terraform, GitHub Actions, observability (Prometheus/CloudWatch).
+| Repo | What it shows |
+| --- | --- |
+| [rag-serve](https://github.com/anejakartik/rag-serve) | Production RAG microservice patterns: retrieval orchestration, API boundaries, and deployment-friendly structure. |
+| [streamstage](https://github.com/anejakartik/streamstage) | Streaming ETL primitives for Kafka and Spark-based pipelines. |
+| [modelops-helm](https://github.com/anejakartik/modelops-helm) | Helm templates and MLOps scaffolding for reproducible training and serving. |
 
-## Open-source interests
-MLOps primitives, reproducible RAG components, data pipeline testing, infra docs automation.
+## How I work
 
-## Quick stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anejakartik&show_icons=true&theme=dark)](https://github.com/anejakartik)
+- I prefer systems that are observable, testable, and easy to hand off.
+- I like moving quickly, but not at the expense of maintainability.
+- I’m strongest on the bridge between product needs and infrastructure design.
 
-## Contact / Recruiters
-Email: anejakartik68@gmail.com · LinkedIn: https://www.linkedin.com/in/kartik-aneja/
+## Cloud and infra
 
-**Hiring or building ML infra?** Ping me for a 20-minute chat — I prioritize quick discovery calls for role fit.
+AWS, Azure, Kubernetes, Terraform, GitHub Actions, observability, and deployment automation.
+
+## Open to
+
+Backend engineering, AI infrastructure, MLOps, and data platform roles in Boston or remote.
+
+## Contact
+
+- Email: anejakartik68@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kartik-aneja/
+- GitHub: https://github.com/anejakartik
+
+If you’re building production AI systems and need someone who can handle the infrastructure around them, I’m happy to talk.
