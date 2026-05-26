@@ -2,14 +2,14 @@
 
 Boston, MA · backend systems · AI infrastructure · MLOps
 
-I build production software for AI teams: the APIs, pipelines, and deployment paths that turn prototypes into systems people can actually run.
+I build production software for AI teams: backend services, data pipelines, and deployment paths that make AI systems reliable in practice.
 
-## What I focus on
+## Focus
 
-- Production backend services for AI products
-- RAG and agent workflows with measurable retrieval quality
+- Backend services for AI products
+- Retrieval, orchestration, and evaluation for RAG and agent workflows
 - Streaming ETL and data infrastructure for analytics and ML
-- MLOps tooling that makes training, deployment, and rollback repeatable
+- MLOps and deployment automation
 
 ## Current stack
 
@@ -23,11 +23,11 @@ Python · Go · FastAPI · PySpark · Kafka · dbt · Snowflake · AWS · Azure 
 | [streamstage](https://github.com/anejakartik/streamstage) | Streaming ETL primitives for Kafka and Spark-based pipelines. |
 | [modelops-helm](https://github.com/anejakartik/modelops-helm) | Helm templates and MLOps scaffolding for reproducible training and serving. |
 
-## How I work
+## Working style
 
-- I prefer systems that are observable, testable, and easy to hand off.
-- I like moving quickly, but not at the expense of maintainability.
-- I’m strongest on the bridge between product needs and infrastructure design.
+- Observable systems that are easy to debug and hand off
+- Practical architecture choices that favor reliability and maintainability
+- Cross-functional collaboration across engineering and product
 
 ## Cloud and infra
 
@@ -42,5 +42,3 @@ Backend engineering, AI infrastructure, MLOps, and data platform roles in Boston
 - Email: anejakartik68@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kartik-aneja/
 - GitHub: https://github.com/anejakartik
-
-If you’re building production AI systems and need someone who can handle the infrastructure around them, I’m happy to talk.
